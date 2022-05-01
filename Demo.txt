@@ -1,1 +1,2 @@
 a newly added text file for the second project
+checkting github
